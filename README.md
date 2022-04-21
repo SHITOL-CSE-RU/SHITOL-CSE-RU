@@ -7,19 +7,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on [shitol](https://iamshitol.vercel.app/)
-
-- 🤝 I’m looking for help with [shitol](https://iamshitol.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://iamshitol.vercel.app/](https://iamshitol.vercel.app/)
-
 - 💬 Ask me about **sdffsdfsdf**
 
 - 📫 How to reach me **https://iamshitol.vercel.app/**
 
 - 📄 Know about my experiences [https://iamshitol.vercel.app/](https://iamshitol.vercel.app/)
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
