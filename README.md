@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitol-cse-ru&label=Profile%20views&color=0e75b6&style=flat" alt="shitol-cse-ru" /> </p>
 
-- 🔭 I’m currently working on [shitol](https://iamshitol.vercel.app/)
+- 🔭 I’m currently working on [MERN Stack Project (Ecommerce WebApplication)](https://github.com/SHITOL-CSE-RU/mern-ecommerce)
 
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **sdffsdfsdf**
+- 🌱 I’m currently learning **MARN Stack Developing**
 
 - 📫 How to reach me **https://iamshitol.vercel.app/**
 
