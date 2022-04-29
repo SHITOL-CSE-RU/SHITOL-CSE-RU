@@ -32,6 +32,6 @@
   </div>
   
    
-<div align="center"> 
+<div align="center" margin-top= "10px"> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shitol-cse-ru&show_icons=true&locale=en&layout=compact" alt="shitol-cse-ru" /></p>
   </div>
