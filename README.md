@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shitol Sarker</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
-<img src="/images/me.jpg">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shitolcse" height="30" width="40" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitol-cse-ru&label=Profile%20views&color=0e75b6&style=flat" alt="shitol-cse-ru" /> </p>
 
