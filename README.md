@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shitol Sarker</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, my name is Shitol</h1>
+<h3 align="center">I am a passionate full stack web developer from Bangladesh</h3>
 <div align="center">
 <img align="right" src="https://github.com/SHITOL-CSE-RU/SHITOL-CSE-RU/blob/master/images/developer.gif" alt="Hola Coders" width="500" height="350"/>
 </div>
