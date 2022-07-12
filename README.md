@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [MERN Stack Project (Ecommerce WebApplication)](https://github.com/SHITOL-CSE-RU/mern-ecommerce)
 - 🌱 I’m currently learning **MARN Stack Developing**
-- 📫 How to reach me **shitol.cse@gmail.com**
+- 📫 How to reach me: **shitol.cse@gmail.com**
 - 📄 Know about my experiences [My Experiences](https://iamshitol.vercel.app/#experience)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I paint at times!
