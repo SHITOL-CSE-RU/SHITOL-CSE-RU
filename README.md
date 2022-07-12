@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shitol Sarker</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 <div align="center">
-<img src="https://github.com/SHITOL-CSE-RU/SHITOL-CSE-RU/blob/master/images/developer.gif" alt="shitolcse" height="300" width="450" />
+<img align="right" src="https://github.com/SHITOL-CSE-RU/SHITOL-CSE-RU/blob/master/images/developer.gif" alt="Hola Coders" width="500" height="350"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitol-cse-ru&label=Profile%20views&color=0e75b6&style=flat" alt="shitol-cse-ru" /> </p>
 
 - 🔭 I’m currently working on [MERN Stack Project (Ecommerce WebApplication)](https://github.com/SHITOL-CSE-RU/mern-ecommerce)
-
 - 🌱 I’m currently learning **MARN Stack Developing**
-
-- 📫 How to reach me **https://iamshitol.vercel.app/**
-
+- 📫 How to reach me **shitol.cse@gmail.com**
 - 📄 Know about my experiences [My Experiences](https://iamshitol.vercel.app/#experience)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I paint at times!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
