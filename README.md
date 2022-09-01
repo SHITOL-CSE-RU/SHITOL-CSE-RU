@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, my name is Shitol</h1>
-<h3 align="center">I am a passionate full stack web developer from Bangladesh</h3>
+<h3 align="center">I am a python developer from Bangladesh</h3>
 <div align="center">
 <img align="right" src="https://github.com/SHITOL-CSE-RU/SHITOL-CSE-RU/blob/master/images/developer.gif" alt="Hola Coders" width="500" height="350"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitol-cse-ru&label=Profile%20views&color=0e75b6&style=flat" alt="shitol-cse-ru" /> </p>
 
-- 🔭 I’m currently working on [MERN Stack Project (Ecommerce WebApplication)](https://github.com/SHITOL-CSE-RU/mern-ecommerce)
-- 🌱 I’m currently learning **MARN Stack Developing**
+- 🔭 I’m currently working on [Python Machine Learning Project (Music Recommendation)](https://github.com/SHITOL-CSE-RU/Music-Recommendation)
+- 🌱 I’m currently learning **Python Machine Learning**
 - 📫 How to reach me: **shitol.cse@gmail.com**
 - 📄 Know about my experiences [My Experiences](https://iamshitol.vercel.app/#experience)
 - 😄 Pronouns: He/His
